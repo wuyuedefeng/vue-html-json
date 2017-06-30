@@ -4,7 +4,7 @@
 
 <script>
 	export default {
-		name: 'PreJson',
+		name: 'HtmlJson',
 		props: {
 			jsonObj: {
 				type: Object,
